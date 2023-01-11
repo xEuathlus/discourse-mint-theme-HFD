@@ -20,7 +20,7 @@ body:not(.navigation-categories):not(.navigation-topics) #main-outlet {
   content: "";
   display: block;
   position: fixed;
-  z-index: 0;
+  z-index: -1;
   width: 300px;
   height: 300px;
   border-radius: 30px;
