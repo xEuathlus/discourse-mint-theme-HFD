@@ -29,7 +29,7 @@ body:not(.navigation-categories):not(.navigation-topics) #main-outlet {
   top: 200px;
 }
 
-#main-outlet:after {
+#main-outlet:middle {
   content: "";
   display: block;
   position: fixed;
