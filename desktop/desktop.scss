@@ -36,12 +36,12 @@ body:not(.navigation-categories):not(.navigation-topics) #main-outlet {
   z-index: -1;
   width: 300px;
   height: 300px;
-  border-radius: 30px;
+  border-radius: 0px;
   background: $color-square-webkit-gradient;
   background: $color-square-gradient;
   right: 50px;
   top: 250px;
-  transform: rotate(74deg);
+  transform: rotate(135deg);
   transform-origin: 0 100%;
 }
 
